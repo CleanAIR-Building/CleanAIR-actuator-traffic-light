@@ -2,7 +2,7 @@
 
 This repository contains the code for the traffic light.
 ## Setup
-![traffic-light](./fritzing/traffic-light_bb.png)
+![traffic-light](https://raw.githubusercontent.com/CleanAIR-Building/Report/main/diagrams/Wiring_Traffic-Light.png?token=AH5OOFIWL3CPZ4BUJE6XTJ3A45KAS)
 
 The resistors have a resistance of 470Ω.
 
