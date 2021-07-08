@@ -1,5 +1,6 @@
 # Traffic light
 
+This repository contains the code for the traffic light.
 ## Setup
 ![traffic-light](./fritzing/traffic-light_bb.png)
 
@@ -15,8 +16,10 @@ Create a file called `data/Config.json`. It should look like this:
   "mqttPort": 1883,
   "mqttUser": "the user",
   "mqttPassword": "the users password",
-  "mqttTopic": "the topic you want to connect to",
-  "mqttClientName": "The client name"
+  "mqttPublishTopic": "the topic you want to publish to",
+  "mqttSubscribeTopic": "the topic you want to subscribe to",
+  "mqttClientName": "The client name",
+  "deviceType": "The device type"
 }
 ```
 
